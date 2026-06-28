@@ -2,8 +2,6 @@
 
 `system architect` `AI engineer` `vibe coder`
 
-### architect-of-intelligence
-
 Systems thinking meets AI architecture. This is my north star — learning how to design intelligent systems from the ground up. Reasoning frameworks, agent architectures, memory systems, tool use patterns. Building my understanding one experiment at a time.
 
 **Currently interested in**
