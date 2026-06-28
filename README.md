@@ -1,21 +1,23 @@
-Building developer tools at the intersection of **static analysis**, **visualization**, and **AI**.
+building dev tools that make code click. literally. ⚡
 
-I work across developer tooling, programming languages, and interactive visualizations. Most projects start as a deep dive into a hard problem and end up shipping.
+[CodeDetective](https://marketplace.visualstudio.com/items?itemName=dev-shridhar.codedetective) — right-click any Python function, get an instant flowchart. tree-sitter + ELK layout + RoughJS = control-flow diagrams on demand.
 
-**Currently interested in**
+**vibe**
 
-- Static analysis & program understanding
-- Developer tooling & VS Code extensions
-- Control-flow & data-flow visualization
+- static analysis & program understanding
+- developer tooling & VS Code extensions
+- flow visualization (CFG today, ERD tomorrow)
 - AI-assisted debugging
 
-**Projects**
+**ship**
 
-- [**CodeDetective**](https://marketplace.visualstudio.com/items?itemName=dev-shridhar.codedetective) — Instant flowcharts from Python code, right in VS Code.
-- [**architect-of-intelligence**](https://github.com/dev-shridhar/architect-of-intelligence) — Systems thinking meets AI architecture.
-- [**brain**](https://github.com/dev-shridhar/brain) — Personal knowledge base & MCP server.
-- [**detective-corkboard-studio**](https://github.com/dev-shridhar/detective-corkboard-studio) — Visual investigation workspace.
+- [CodeDetective](https://marketplace.visualstudio.com/items?itemName=dev-shridhar.codedetective) — flowchart generator for VS Code
+- [architect-of-intelligence](https://github.com/dev-shridhar/architect-of-intelligence) — systems × AI
+- [brain](https://github.com/dev-shridhar/brain) — knowledge base & MCP server
+- [detective-corkboard-studio](https://github.com/dev-shridhar/detective-corkboard-studio) — investigate. visualize. connect.
 
-Bangalore, India
+**links**
 
-[dev-shridhar](https://github.com/dev-shridhar) · [CodeDetective](https://marketplace.visualstudio.com/items?itemName=dev-shridhar.codedetective)
+[vs code marketplace](https://marketplace.visualstudio.com/items?itemName=dev-shridhar.codedetective) · [github](https://github.com/dev-shridhar)
+
+bangalore, india
