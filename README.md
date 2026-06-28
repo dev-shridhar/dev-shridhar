@@ -1,23 +1,31 @@
-building dev tools that make code click. literally. ⚡
+<div align="center">
 
-[CodeDetective](https://marketplace.visualstudio.com/items?itemName=dev-shridhar.codedetective) — right-click any Python function, get an instant flowchart. tree-sitter + ELK layout + RoughJS = control-flow diagrams on demand.
+# dev-shridhar
 
-**vibe**
+*code that clicks. literally.*
 
-- static analysis & program understanding
-- developer tooling & VS Code extensions
-- flow visualization (CFG today, ERD tomorrow)
-- AI-assisted debugging
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Marketplace-CodeDetective-0078d7?style=flat-square&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=dev-shridhar.codedetective)
+[![GitHub](https://img.shields.io/badge/GitHub-dev--shridhar-181717?style=flat-square&logo=github)](https://github.com/dev-shridhar)
+[![X](https://img.shields.io/badge/@dev__shridhar-000000?style=flat-square&logo=x)](https://x.com/dev_shridhar)
 
-**ship**
+---
 
-- [CodeDetective](https://marketplace.visualstudio.com/items?itemName=dev-shridhar.codedetective) — flowchart generator for VS Code
-- [architect-of-intelligence](https://github.com/dev-shridhar/architect-of-intelligence) — systems × AI
-- [brain](https://github.com/dev-shridhar/brain) — knowledge base & MCP server
-- [detective-corkboard-studio](https://github.com/dev-shridhar/detective-corkboard-studio) — investigate. visualize. connect.
+**building developer tools in the open**  
+static analysis · program visualization · AI-assisted debugging
 
-**links**
+tree-sitter · ELK · RoughJS · VS Code · TypeScript · Python
 
-[vs code marketplace](https://marketplace.visualstudio.com/items?itemName=dev-shridhar.codedetective) · [github](https://github.com/dev-shridhar)
+---
 
-bangalore, india
+### ⚡ what i ship
+
+**[CodeDetective](https://marketplace.visualstudio.com/items?itemName=dev-shridhar.codedetective)** — right-click any Python function → instant flowchart.  
+**[architect-of-intelligence](https://github.com/dev-shridhar/architect-of-intelligence)** — systems thinking meets AI architecture.  
+**[brain](https://github.com/dev-shridhar/brain)** — personal knowledge base & MCP server.  
+**[detective-corkboard-studio](https://github.com/dev-shridhar/detective-corkboard-studio)** — investigate. visualize. connect.
+
+---
+
+*Bangalore, India*
+
+</div>
