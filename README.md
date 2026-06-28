@@ -1,20 +1,21 @@
-# Hey, I'm Shridhar 👋
+Building developer tools at the intersection of **static analysis**, **visualization**, and **AI**.
 
-Building things at the intersection of **static analysis**, **developer tooling**, and **visualization**.
+I work across developer tooling, programming languages, and interactive visualizations. Most projects start as a deep dive into a hard problem and end up shipping.
 
-## 🔭 Projects
+**Currently interested in**
 
-- **CodeDetective** — VS Code extension that generates instant flowcharts from Python code using tree-sitter and ELK layout. Right-click any function, get an interactive control-flow diagram.
-- **architect-of-intelligence** — Systems thinking meets AI architecture.
-- **brain** — Personal knowledge base and MCP server.
-- **detective-corkboard-studio** — Visual investigation workspace.
-- **routine-tracker** — Habit tracking done differently.
-- **aries.ai** — AI project (coming soon).
+- Static analysis & program understanding
+- Developer tooling & VS Code extensions
+- Control-flow & data-flow visualization
+- AI-assisted debugging
 
-## ⚡ Stack
+**Projects**
 
-Python · TypeScript · tree-sitter · VS Code API · WebAssembly · ELK · RoughJS
+- [**CodeDetective**](https://marketplace.visualstudio.com/items?itemName=dev-shridhar.codedetective) — Instant flowcharts from Python code, right in VS Code.
+- [**architect-of-intelligence**](https://github.com/dev-shridhar/architect-of-intelligence) — Systems thinking meets AI architecture.
+- [**brain**](https://github.com/dev-shridhar/brain) — Personal knowledge base & MCP server.
+- [**detective-corkboard-studio**](https://github.com/dev-shridhar/detective-corkboard-studio) — Visual investigation workspace.
 
-## 📫
+Bangalore, India
 
-[dev-shridhar](https://github.com/dev-shridhar) · VS Code Marketplace: [CodeDetective](https://marketplace.visualstudio.com/items?itemName=dev-shridhar.codedetective)
+[dev-shridhar](https://github.com/dev-shridhar) · [CodeDetective](https://marketplace.visualstudio.com/items?itemName=dev-shridhar.codedetective)
